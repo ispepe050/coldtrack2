@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "884246697639",
+    "firebase_url": "https://carnitrackmigajas-d689b-default-rtdb.firebaseio.com",
+    "project_id": "carnitrackmigajas-d689b",
+    "storage_bucket": "carnitrackmigajas-d689b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884246697639:android:3896685482ef4d145bed82",
+        "android_client_info": {
+          "package_name": "com.example.mi_proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC66B77jLGb5vFxOvU_6VCMG0HEjdn7nTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884246697639:android:3b2af8bb3c1811eb5bed82",
+        "android_client_info": {
+          "package_name": "com.tecvalles.carnitrack2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC66B77jLGb5vFxOvU_6VCMG0HEjdn7nTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884246697639:android:096f8b35305462e65bed82",
+        "android_client_info": {
+          "package_name": "com.tuempresa.carnitrack_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC66B77jLGb5vFxOvU_6VCMG0HEjdn7nTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
